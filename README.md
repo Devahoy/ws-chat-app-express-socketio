@@ -1,6 +1,6 @@
 # chat-app-express
 
-[[Workshop] ทำ Chat Application ด้วย Node.js, Express และ Socket.io](https://devahoy.com/chat-app-with-express-socketio/)
+[[Workshop] ทำ Chat Application ด้วย Node.js, Express และ Socket.io](https://devahoy.com/blog/chat-app-with-express-socketio/)
 
 ![Chat App](./chat-app.png)
 
